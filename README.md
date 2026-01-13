@@ -92,7 +92,3 @@ Estima el rendimiento del jugador por cada 100 posesiones en comparación con un
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
-1. Clonar el repositorio.
-2. Instalar dependencias: `pip install -r requirements.txt`
-3. Ejecutar los notebooks en orden numérico dentro de la carpeta `notebooks/`.
